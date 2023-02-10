@@ -1,5 +1,5 @@
 gnureadline==6.3.3
-ipython==7.16.3
+ipython==8.10.0
 isodate==0.5.1
 pywinrm==0.0.3
 wsgiref==0.1.2
